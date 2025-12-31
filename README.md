@@ -1,6 +1,6 @@
 
 <!-- Banner Image -->
-![Rakibstack Banner](https://github.com/Rakibstack/Rakibstack/blob/main/A_banner_for_Rakibul_Hassan_Rakib_is_designed_for_.png?raw=true)
+![Rakibstack Banner](https://raw.githubusercontent.com/Rakibstack/Rakibstack/f2f48858488aa48e0e2757d5ce6f37f3f683c025/banner.png)
 
 # 👋 Hi, I'm Rakibul Hassan Rakib  
 ### 💻 MERN Stack Web Developer
