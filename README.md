@@ -44,7 +44,7 @@ Currently, I am focusing on improving my MERN stack skills and working on real-w
 
 ## 🌐 Connect With Me
 - 🔗 GitHub: https://github.com/Rakibstack  
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
+- 💼 LinkedIn: https://www.linkedin.com/in/rakibul-hasan-rakib-dev/
 - 📧 Email: rakibhasan.dev1@gmail.com 
 
 ---
