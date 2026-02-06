@@ -3,11 +3,11 @@
 ![Rakibstack Banner](https://raw.githubusercontent.com/Rakibstack/Rakibstack/refs/heads/main/banner1.png)
 
 # 👋 Hi, I'm Rakibul Hassan Rakib  
-### 💻 MERN Stack Web Developer
+###  MERN Stack Web Developer
 
 ---
 
-## 🚀 About Me
+##  About Me
 I am a passionate and dedicated Web Developer with strong interest in modern web technologies.  
 I enjoy building responsive, user-friendly, and scalable web applications.  
 Currently, I am focusing on improving my MERN stack skills and working on real-world projects.
@@ -15,9 +15,9 @@ Currently, I am focusing on improving my MERN stack skills and working on real-w
 ---
 
 ## 🔭 Current Activities
-- 🌱 Exploring **Next.js**
-- 📘 Learning advanced MERN Stack concepts
-- 🚀 Improving problem-solving and coding skills
+-  Exploring **Next.js**
+-  Learning advanced MERN Stack concepts
+-  Improving problem-solving and coding skills
 
 ---
 
