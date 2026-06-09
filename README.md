@@ -40,7 +40,7 @@
 
 ---
 
-#  Tech Stack
+# 💻 Tech Stack
 
 ### Frontend
 
@@ -98,7 +98,7 @@ src="https://streak-stats.demolab.com?user=Rakibstack&hide_border=true&backgroun
 
 ---
 
-#  Quote
+# ✨Quote
 
 <div align="center">
 
