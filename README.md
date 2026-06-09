@@ -1,6 +1,5 @@
 
 <!-- Banner Image -->
-![Rakibstack Banner](https://raw.githubusercontent.com/Rakibstack/Rakibstack/refs/heads/main/banner1.png)
 
 # 👋 Hi, I'm Rakibul Hassan Rakib  
 ###  MERN Stack Web Developer
