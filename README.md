@@ -1,57 +1,107 @@
+<!-- =========================
+     HEADER SECTION
+========================= -->
 
-<!-- Banner Image -->
+<h1 align="center">Hi ✋, I'm Rakibul Hasan Rakib</h1>
+<h3 align="center"> MERN Stack Web Developer From Bangladesh</h3>
 
-# 👋 Hi, I'm Rakibul Hassan Rakib  
-###  MERN Stack Web Developer
-
----
-
-##  About Me
-I am a passionate and dedicated Web Developer with strong interest in modern web technologies.  
-I enjoy building responsive, user-friendly, and scalable web applications.  
-Currently, I am focusing on improving my MERN stack skills and working on real-world projects.
+<p align="center">
+  Passionate about building modern, scalable, and user-friendly web applications.
+</p>
 
 ---
 
-## 🔭 Current Activities
--  Exploring **Next.js**
--  Learning advanced MERN Stack concepts
--  Improving problem-solving and coding skills
+<!-- =========================
+     SOCIAL LINKS
+========================= -->
+
+<p align="center">
+  <a href="https://github.com/Rakibstack">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/rakibul-hasan-rakib-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:rakibhasan.dev1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Skills
+# 💫 About Me
+
+-  Currently learning **Next.js & Advanced Backend**
+-  Building real-world MERN stack projects
+-  Goal: Become a Professional Full Stack Developer
+-  Love clean UI, scalable architecture & modern web apps
+
+---
+
+#  Tech Stack
 
 ### Frontend
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind," />
+</p>
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-gray?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
+</p>
 
----
+### DevOps & Tools
 
-## 🌐 Connect With Me
-- 🔗 GitHub: https://github.com/Rakibstack  
-- 💼 LinkedIn: https://www.linkedin.com/in/rakibul-hasan-rakib-dev/
-- 📧 Email: rakibhasan.dev1@gmail.com 
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,firebase," />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+#  GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakibstack&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibstack&layout=compact&theme=tokyonight)
+<table>
+<tr>
+<td>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Rakibstack&theme=tokyonight)
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibstack&layout=compact&hide_border=true&bg_color=ffffff&title_color=2F80ED&text_color=4F4F4F&icon_color=2F80ED"
+/>
+
+</td>
+
+<td>
+
+<img 
+src="https://github-readme-stats.vercel.app/api?username=Rakibstack&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2F80ED&text_color=4F4F4F&icon_color=2F80ED&ring_color=2F80ED"
+/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img 
+width="75%"
+src="https://streak-stats.demolab.com?user=Rakibstack&hide_border=true&background=FFFFFF&ring=F7931E&fire=F7931E&currStreakLabel=F7931E&sideNums=333333&currStreakNum=333333&dates=666666&sideLabels=333333"
+/>
+
+</div>
+
+
+---
+
+#  Quote
+
+<div align="center">
+
+> "Consistency beats motivation."
+
+</div>
