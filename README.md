@@ -2,7 +2,7 @@
      HEADER SECTION
 ========================= -->
 
-<h1 align="center">Hi ✋, I'm Rakibul Hasan Rakib</h1>
+<h1 align="center">Hi ✋, I'm Rakibul Hassan Rakib</h1>
 <h3 align="center"> MERN Stack Web Developer From Bangladesh</h3>
 
 <p align="center">
