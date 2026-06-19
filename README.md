@@ -2,11 +2,14 @@
      HEADER SECTION
 ========================= -->
 
-<h1 align="center">Hi ✋, I'm Rakibul Hassan Rakib</h1>
-<h3 align="center"> MERN Stack Web Developer From Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Rakibul Hassan Rakib</h1>
+
+<h3 align="center">
+ Full Stack Developer From Bangladesh
+</h3>
 
 <p align="center">
-  Passionate about building modern, scalable, and user-friendly web applications.
+Building modern, scalable, and user-friendly web applications with clean architecture.
 </p>
 
 ---
@@ -16,27 +19,31 @@
 ========================= -->
 
 <p align="center">
-  <a href="https://github.com/Rakibstack">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/rakibul-hasan-rakib-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
+<a href="https://github.com/Rakibstack">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
 
-  <a href="mailto:rakibhasan.dev1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-  </a>
+<a href="https://www.linkedin.com/in/rakibul-hasan-rakib-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:rakibhasan.dev1@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+</a>
+
 </p>
 
 ---
 
 # 💫 About Me
 
--  Currently learning **Next.js & Advanced Backend**
--  Building real-world MERN stack projects
+-  Building modern **Full Stack applications**
+-  Working with **MERN Stack, Next.js & Backend Development**
+-  Exploring **PostgreSQL, Prisma ORM & Database Design**
+-  Implementing authentication, authorization & secure APIs
 -  Goal: Become a Professional Full Stack Developer
--  Love clean UI, scalable architecture & modern web apps
+-  Passionate about clean code, problem solving & real-world projects
 
 ---
 
