@@ -64,7 +64,7 @@ Building modern, scalable, and user-friendly web applications with clean archite
 ### DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,firebase," />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman," />
 </p>
 
 ---
