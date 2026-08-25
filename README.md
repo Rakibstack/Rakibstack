@@ -73,7 +73,7 @@ Building modern, scalable, and user-friendly web applications with clean archite
 
 <div align="center">
 
-<table>
+<!-- <table>
 <tr>
 <td>
 
@@ -91,7 +91,7 @@ src="https://github-readme-stats.vercel.app/api?username=Rakibstack&show_icons=t
 
 </td>
 </tr>
-</table>
+</table> -->
 
 <br/>
 
