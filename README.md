@@ -73,7 +73,7 @@ Building modern, scalable, and user-friendly web applications with clean archite
 
 <div align="center">
 
-< <table>
+<table>
 <tr>
 <td>
 
